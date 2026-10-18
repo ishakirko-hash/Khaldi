@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "KHALDI PLAST - إدارة مصنع الصناديق البلاستيكية",
+  "short_name": "KHALDI PLAST",
+  "description": "تطبيق إدارة مصنع خالدي بلاست - إنتاج الصناديق البلاستيكية، المواد الأولية، المبيعات والديون بالدينار الجزائري.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

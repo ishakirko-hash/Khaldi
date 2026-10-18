@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.khaldiplast.factory" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>KHALDI PLAST</name>
+    <description>تطبيق مصنع خالدي بلاست لإدارة إنتاج الصناديق وحساب المواد الأولية والديون</description>
+    <author email="bmca6090@gmail.com">KHALDI PLAST Industry</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <preference name="Orientation" value="default" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="BackgroundColor" value="#0f172a" />
+    <preference name="DisallowOverscroll" value="true" />
+    <icon src="icon.svg" />
+</widget>

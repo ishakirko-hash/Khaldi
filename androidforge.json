@@ -1,0 +1,12 @@
+{
+  "appName": "KHALDI PLAST",
+  "packageName": "com.khaldiplast.factory",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "startUrl": "index.html",
+  "themeColor": "#059669",
+  "backgroundColor": "#0f172a",
+  "orientation": "any",
+  "offlineReady": true,
+  "description": "تطبيق إدارة مصنع خالدي بلاست لحقن الصناديق البلاستيكية ومتابعة الديون والمواد الأولية"
+}
